@@ -16,3 +16,6 @@ sortdev实现希尔排序
 
 
 强制通过本地的另一个分支sortdev提交到远程
+
+
+测试reset
