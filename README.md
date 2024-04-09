@@ -1,2 +1,2 @@
-# HelloWorld 小张，阿亮
+# HelloWorld
 为了git的学习
